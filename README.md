@@ -11,7 +11,7 @@ The features of this bots are:
 It's really easy to use. Just download the folder and start it. (I developed the Bot with Python3.X.
 I don't know if it works with other versions.)
 
-It will appoer the Window with all commands you need to start your Spam-Campaign.
+It will appear the Window with all commands you need to start your Spam-Campaign.
 
 If you want to see how it works please <a href='https://youtu.be/SpYH8EGAq3k'>check this Video-Tutorial</a>
 
