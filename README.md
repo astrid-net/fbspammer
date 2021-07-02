@@ -13,7 +13,7 @@ I don't know if it works with other versions.)
 
 It will appoer the Window with all commands you need to start your Spam-Campaign.
 
-If you want to see how it works please <a href='https://youtu.be/_J6ckrvs7-0'>check this Video-Tutorial</a>
+If you want to see how it works please <a href='https://youtu.be/SpYH8EGAq3k'>check this Video-Tutorial</a>
 
 *PLEASE READ*
 
