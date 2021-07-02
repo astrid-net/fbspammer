@@ -13,4 +13,8 @@ I don't know if it works with other versions.)
 
 It will appoer the Window with all commands you need to start your Spam-Campaign.
 
-If you want to see how it works please <a>check this Video-Tutorial</a>
+If you want to see how it works please <a href='https://youtu.be/_J6ckrvs7-0'>check this Video-Tutorial</a>
+
+*PLEASE READ*
+
+This software was developed for play purposes only and is not intended to violate Facebook's terms of use in any way.
